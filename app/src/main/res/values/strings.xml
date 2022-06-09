@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatsThat</string>
+    <string name="denied_permission">Permission denied</string>
+    <string name="confidence">CONFIDENCE %</string>
+    <string name="image_name">IMAGE_NAME</string>
+    <string name="operation_dont_success">Operation failed</string>
+</resources>
